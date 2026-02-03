@@ -3,6 +3,15 @@
 A GPT-style Language Model implemented from scratch in C++ using a custom tensor library (`myTorch`).
 for more details [paper](https://drive.google.com/file/d/1D81ekNx0kE75X4pL2kh1R-KjkYK9Vhiq/view?usp=drive_link)
 
+## Results
+
+<img width="626" height="298" alt="Screenshot 2026-02-02 at 11 28 07 PM" src="https://github.com/user-attachments/assets/586389bd-1923-4f5e-9527-88963e5c73bb" />
+
+<img width="626" height="310" alt="Screenshot 2026-02-02 at 11 28 24 PM" src="https://github.com/user-attachments/assets/0f4f567d-ff6a-48d8-9500-26151cdf9efa" />
+<img width="626" height="368" alt="Screenshot 2026-02-02 at 11 28 35 PM" src="https://github.com/user-attachments/assets/dcd468cc-4455-4418-ad89-0cc3a67a62e7" />
+
+
+
 ## Prerequisites
 
 *   C++17 compatible compiler (e.g., `clang++`, `g++`)
