@@ -1,6 +1,7 @@
 # mySLM - Custom C++ LLM
 
 A GPT-style Language Model implemented from scratch in C++ using a custom tensor library (`myTorch`).
+for more details [paper](https://drive.google.com/file/d/1D81ekNx0kE75X4pL2kh1R-KjkYK9Vhiq/view?usp=drive_link)
 
 ## Prerequisites
 
